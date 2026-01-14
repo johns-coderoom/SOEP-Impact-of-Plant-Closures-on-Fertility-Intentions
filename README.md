@@ -6,6 +6,9 @@ This repository contains the analysis for my Summer 2026 internship project inve
 
 Using panel data, this study estimates the impact of **plant closures** (a proxy for exogenous economic displacement) on individual **fertility intentions**. The goal is to determine if job insecurity creates a "wait-and-see" effect on family planning.
 
+
+<img width="800" height="500" alt="Figure_1" src="https://github.com/user-attachments/assets/41cc78ce-ab03-409f-ab2c-a13a366f1415" />
+
 ## 🔬 Econometric Model
 The analysis employs a **Twoway Fixed Effects (TWFE)** model to control for time-invariant individual characteristics and common macro-economic shocks.
 
